@@ -1,0 +1,5 @@
+7a24aacda8ad8be62b8e03ba376c20f0  ./model_data/variables/variables.data-00000-of-00001
+1dcdd54b7d0f622dcaa146c0debcc39d  ./nb_images/pred_video.mp4
+ed92b2e4377599ff741264cca0477a53  ./nb_images/prediction_video_compressed.mp4
+c4548ae4e6a444d04a40f12ad66e6a3a  ./nb_images/road_video.mp4
+bca5c20cccf68eb828ecbd9a6c1bd07a  ./nb_images/road_video_compressed.mp4
