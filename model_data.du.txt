@@ -1,0 +1,3 @@
+136M	XY_train/X.npy
+106M	XY_dev/X_dev.npy
+242M	total
