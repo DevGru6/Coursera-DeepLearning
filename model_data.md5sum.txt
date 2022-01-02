@@ -1,0 +1,2 @@
+395e71fd63eedfce0226559bb8f20a97  data/training_example.mp3
+7fadb76daa27d42547c1bffcec2aef95  data/training_example.wav
