@@ -1,0 +1,2 @@
+685e892d4037cff392ea412c1abaf448  pretrained-model/imagenet-vgg-verydeep-19.mat
+253f8cb515780f3b799900260a226db6  pretrained-model/vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5

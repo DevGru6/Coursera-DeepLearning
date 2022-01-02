@@ -1,0 +1,3 @@
+329M	pretrained-model/imagenet-vgg-verydeep-19.mat
+ 76M	pretrained-model/vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5
+405M	total
