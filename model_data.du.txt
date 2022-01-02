@@ -1,0 +1,3 @@
+253M	model/tensorflow/tf_model.h5
+253M	model/pytorch/pytorch_model.bin
+506M	total

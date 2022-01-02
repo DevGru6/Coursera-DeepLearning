@@ -1,0 +1,2 @@
+c013d5b81b0cd0064d20f5a5e5033e02  model/tensorflow/tf_model.h5
+b85a73f7b326dd89b0c82de71ce5a367  model/pytorch/pytorch_model.bin
