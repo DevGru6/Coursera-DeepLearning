@@ -1,0 +1,1 @@
+8c969ec4d6eeef19f45ca0259a0b7f3b  ./datasets/train_signs.h5
