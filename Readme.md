@@ -11,3 +11,8 @@ Initialization
         | perl -pe "s/^\s*(.*)/git worktree add \1 \1/g;" \
         | $SHELL;
 
+Updates
+===
+
+    git branch | perl -pe "s#^..##g;" \
+        | xargs -rt -I{} git push -v gh {};
